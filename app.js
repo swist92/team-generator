@@ -18,7 +18,7 @@ function render1() {
         name: "role",
         type: "list",
         message: "Employee Type:",
-        choices: ["Manager", "Engineer", "Intern", "NA"],
+        choices: ["Manager", "Engineer", "Intern", "NA"]
       },
     ])
 
@@ -155,6 +155,6 @@ function exitApplication() {
     if (err) {
       return console.log(err);
     }
-    console.log("Succes!");
+    console.log("Success!");
   });
 }
