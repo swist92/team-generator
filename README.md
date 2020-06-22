@@ -1,5 +1,5 @@
 # team-generator
-https://github.com/swist92/team-generator/issues/1#issue-629706551
+
 
 This assignment had us focus on creating a CLI app that displays employees as individual members of a team.  We used the code already made available to us and dynamically created the team members in our app.js file using a number of different functions we learned over the past week.  I linked in my team.html link and from there wrote out an inquirer function which prompts us to select our employee type.  From there, the switch case function takes us throught the different types of employees and our inquirer functions prompt us to fill in our answers.  This can then be rendered into our browser from the html file.  It is also important to inlcude a video snippet of the terminal commands being executed so that one may see all of the choices, prompts, and answers of the user in the command line.
 
